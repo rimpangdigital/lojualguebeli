@@ -72,7 +72,7 @@ Image_25542B45_3073_2CC5_41A5_381149E019E3_mobile.url = skin/Image_25542B45_3073
 
 ### Multiline Text
 HTMLText_2635661A_3070_E44F_41C1_7A330F232F6E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5641025641025643vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:2.56vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
-HTMLText_2635661A_3070_E44F_41C1_7A330F232F6E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.91vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
+HTMLText_2635661A_3070_E44F_41C1_7A330F232F6E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
